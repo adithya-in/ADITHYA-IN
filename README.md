@@ -5,17 +5,6 @@
 Founder — **NUKE LABS** | Turning Concepts into Reality
 
 I build hardware + software products, work on drones, IoT systems, robotics prototypes, and conduct STEM workshops.
-Currently working on:
-
-* ✈️ Building a **modular agricultural drone** (spraying + seeding + pollination)
-* 📟 ESP8266 digital clock with web-controlled alarm
-* ☀️ Solar sun tracker with STM32
-* 🤖 Automated pill dispenser
-* 🏠 Home automation using STM32
-* 🧾 Document printing vending machine
-* 🧠 NeuroTech workshop concepts
-* 🎨 Piston Prints — poster brand for car enthusiasts
-
 ---
 
 ## 🛠️ Tech Stack
@@ -46,22 +35,11 @@ Currently working on:
 
 ---
 
-## 📌 Featured Projects
-
-* 🌾 **Agricultural Drone** — Spraying + seeding + AI-based anti-collision
-* 🖨️ **Document Printing Vending Machine**
-* ⏰ **WiFi Digital Clock with Alarm**
-* 🌞 **Dual-axis Solar Tracker**
-* 🧃 **Automatic Pill Dispenser**
-* 🚗 **Piston Prints** — Car posters brand
-
----
-
 ## 📫 Connect with Me
 
-* **Instagram:** @nukelabs
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [your email]
+* **Instagram:** adithya.fr_
+* **LinkedIn:** https://www.linkedin.com/in/s-adithya-76224b366/
+* **Email:** maker.adithya@gmail.com
 
 ---
 
